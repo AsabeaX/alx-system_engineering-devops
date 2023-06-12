@@ -8,3 +8,7 @@ script that displays a confused smiley "(Ôo)'.
 
 #Let's display a file
 script that displays the content of the /etc/passwd file
+
+#What about 2
+script that displays the content of /etc/passwd and /etc/hosts
+
