@@ -21,6 +21,9 @@ script that displays the first 10 lines of /etc/passwd
 #Line #2
 script that displays the third line of the file iacta
 
+#It is a good file that cuts iron without making a noise
+script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+
 #Save current state of directory
 script that writes into the file ls_cwd_content the result of the command ls -la
 
